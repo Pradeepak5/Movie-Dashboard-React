@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Movie-Dashboard-React/static/css/main.e3b39915.css",
+    "main.js": "/Movie-Dashboard-React/static/js/main.5f6de503.js",
+    "static/js/787.71ca495a.chunk.js": "/Movie-Dashboard-React/static/js/787.71ca495a.chunk.js",
+    "static/media/logo.svg": "/Movie-Dashboard-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Movie-Dashboard-React/index.html",
+    "main.e3b39915.css.map": "/Movie-Dashboard-React/static/css/main.e3b39915.css.map",
+    "main.5f6de503.js.map": "/Movie-Dashboard-React/static/js/main.5f6de503.js.map",
+    "787.71ca495a.chunk.js.map": "/Movie-Dashboard-React/static/js/787.71ca495a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3b39915.css",
+    "static/js/main.5f6de503.js"
+  ]
+}
